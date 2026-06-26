@@ -2,4 +2,4 @@ venv/
 __pycache__/
 *.pyc
 students.db
-.streamlit/
+.streamlit/secrets.toml
